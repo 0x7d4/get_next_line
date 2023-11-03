@@ -1,2 +1,2 @@
 # get_next_line
-Get next line! but with Queue data structure
+Read any file descriptor line by line with a queue data structure.
